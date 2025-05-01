@@ -1,27 +1,24 @@
 
 
 <h1 align="center">
-     Nome do Site
+     Nikel
 </h1>
 
 <h4 align="left">
-    Slogan do Projeto. Fazer um texto curto sobre o que é o projeto.
+    O projeto Nikel é uma participacao do curso da growdev chamado 'Codai 2.0 - Primeiros passos no Front-End' 
 </h4>
 
 ---
 
 ##  🕵Sobre
 
-Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você está fazendo uma Pokedéx pode escrever : Aplicação com intuito de criar uma pokedéx, site onde você pode ver os detalhes dos pokemóns e montar a sua equipe.
+O projeto se trata de um site onde controle financeiro, onde foi utlizado css, php, html e javascrip. No site há uma aba de login, onde é possivel criar um cadastro ou logar, logo apos na segunda aba, temos a haba de entradas e saidas, sendo possivel adicionar o quanto saiu e o quanto entrou e tambem temos a aba de lancamentos, onde esta declarado a Data, valor, tiipo e descricao
 
 ---
 
 ##  👩🏾Quem Faz 
 
-- ~~COLOCAR O NOME DAS PESSOAS AUTORAS DO PROJETO~~
-- PESSOA 1
-- PESSOA 2
-- PESSOA 3
+- Emilly
 
 ---
 ##  🔠Conteúdos
@@ -42,22 +39,13 @@ Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você es
 ---
 ##  🧭Status do Projeto
 
-~~COLOCAR AQUI O STATUS DO PROJETO. ALÉM DISSO, VOCÊ PODE COLOCAR QUAL PARTE VOCÊ ESTÁ DESENVOLVENDO (ESTILIZAÇÃO, RESPONSIVIDADE, ETC...)~~
-
- - ⏳ Fazendo
- - 📥 Testando 
- - ⌛ Feito
+ - ⌛ Realizado
 
 ---
 
 ##  🎯Objetivo do Projeto
 
-Este é um projeto de Back-end | Front-end | Full-Stack , desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender : ~~COLOCAR AQUI QUAIS SÃO OS CONCEITOS  E TECNOLOGIAS QUE VOCÊ ESTAVA FOCADO EM ESTUDAR, AO REALIZAR ESSE PROJETO~~. 
-
-~~EXEMPLO:~~
-
-- Este é um projeto de Back-end , desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender :  Diferença entre banco de dados relacionais e não relacionais ; MySQL ; Criação de Query.
-
+Este é um projeto de Front-end , desenvolvido no growdev, cujo o principal objetivo é estudar e compreender : o front end, realizando seus primeiros passos
 
 
 ## ☑️Requisitos de Funcionalidade
